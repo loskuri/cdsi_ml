@@ -1,0 +1,30 @@
+# Entorno
+.env
+*.env
+
+# Imágenes descargadas
+images/
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Playwright
+.playwright/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Docker volumes locales
+postgres_data/
